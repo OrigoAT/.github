@@ -1,35 +1,25 @@
-# EchoVue
+**EchoVue**  
+**Performance. Aesthetics. Intuition.**  
 
-_Performance, Aesthetic, Intuition_
+**EchoVue** is an AI-driven data intelligence platform designed for seamless integration and intuitive use. Our web-based application empowers you to combine diverse data sources and leverage Predictive and Generative AI to uncover new insights.
 
-## EchoVue
+Key Features:
 
-AI focused data-intelligence built on top of an intuitive webapp. Combine different Data Sources and enhance them with Predictive or Generative AI to generate new insights from your data. 
+- **Real-Time Alerts**  
+- **Comprehensive Reporting**  
+- **Data Export with Enhanced Insights**  
+- **Publicly Verifiable Audit Logs**  
+  - Secure, anonymized logs utilizing public/private key encryption for transparency.
+- **Blockchain Integration**  
+  - Support for notary logs and smart contracts.
 
-Including:
-* Alerting
-* Reporting
-* Exporting of enriched data
-* Audit Logs (Public-/Private-Key based publicly accessible and verifiable anonymized log, so you can verify what we did)
-* Blockchain Support (Notary Logs, Smart Contracts)
+**Supported Data Sources:**
 
-We support the following data sources out of the box:
+- **Sensors:** From temperature sensors to gyroscopes—easily integrated.
+- **Camera Feeds:** Handling still images, videos, RGB, multispectral, aerial footage, and more.
+- **Satellite Imagery:** Including radar, gas, temperature, multispectral, and stereoscopic data.
+- **Webcams:** Supporting both video and still images.
+- **Laser Point Clouds:** Compatible with any projection or density.
+- **Weather Data:** From indoor sensors to external weather APIs, including historical and forecasted data.
 
-1. Sensors (From Temperature to Gyroscopes, easily integrated)
-2. Camera Images (Still Images, Video, RGB, Multispectral, Aerial, ...)
-3. Satelite Images (Radar, Gas, Temperature, Multispectral, Stereoscopic, ...)
-4. Webcam Feeds (Video, Still Images)
-5. Laser PointClouds (In any Projection & Density)
-6. Weather (From Indoor Sensors to Weather APIs, Historic and Forecast)
-
-We do the work but you still own your data.
-
-## Origo Beratungs- und Beteiligungs GmbH
-
-Kapellenstraße 41, 3434 Wilfersdorf
-
-FN 550104 b, HG St.Pölten
-
-UID: ATU76609449
-
-administration@origo.co.at
+We do the heavy lifting, but your data remains yours.
